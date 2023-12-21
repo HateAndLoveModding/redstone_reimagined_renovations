@@ -1,0 +1,13 @@
+{
+  "type": "redstone_reimagined_renovations:freezer",
+  "ingredients": [
+    {
+      "item": "minecraft:coal",
+      "item1": "minecraft:water_bucket",
+      "item2": "minecraft:stick"
+    }
+  ],
+  "output": {
+    "item": "minecraft:ancient_debris"
+  }
+}
